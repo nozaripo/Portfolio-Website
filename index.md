@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Natural Language Processing {.tabset}
 
 ### CS224n: Natural Language Processing with Deep Learning
 
